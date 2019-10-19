@@ -20,8 +20,7 @@ Similarly, there are something businesses and organizations can do in terms of l
 
 ## What’s security framework
 A simple dynamic network security model is illustrated as follow:
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://images.app.goo.gl/T5qeYuZsFBEi8bVN8)
+![alt text](https://images.app.goo.gl/T5qeYuZsFBEi8bVN8/to/img.png)
 
 A Prevention, Detection and Response Mechanism:
 Protection: building the right controls to protect from hackers getting in
