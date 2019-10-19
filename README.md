@@ -20,7 +20,7 @@ Similarly, there are something businesses and organizations can do in terms of l
 
 ## What’s security framework
 A simple dynamic network security model is illustrated as follow:
-![image](https://user-images.githubusercontent.com/55206623/67136523-46e1de80-f1f5-11e9-8c2d-e3ea51f1ee15.png)
+![](image/PDR.png)
 
 A Prevention, Detection and Response Mechanism:
 Protection: building the right controls to protect from hackers getting in
@@ -34,3 +34,10 @@ An IT security framework is a series of documented processes used to define poli
 In a nutshell, frameworks are some generally written guidelines and procedures to be followed for the purpose of improve organization’s cyber security level, lower the risk of lost in all kinds of information, and mitigate lost, if, inevitable attacks happen.
 
 Take a look at some most use security framework:
+1.NIST     
+![](image/NIST)   
+
+2.PCI DSS      
+The Payment Card Industry Data Security Standard (PCI DSS) is an information security standard for organizations that handle branded credit cards from the major card schemes.
+3.CIS     
+![](image/CIS)
