@@ -19,7 +19,7 @@ Although it seems implausible to stop all cyberattacks just by simply asking hac
 Similarly, there are something businesses and organizations can do in terms of lowering the risk of information leaks. For instance, look at and use a security framwork.
 
 ## What’s security framework
-A simple dynamic network security model is illustrated as follow:
+A simple dynamic network security model is illustrated as follow:       
 ![](image/PDR.png)
 
 A Prevention, Detection and Response Mechanism:
