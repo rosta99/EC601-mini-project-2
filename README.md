@@ -22,13 +22,12 @@ Similarly, there are something businesses and organizations can do in terms of l
 A simple dynamic network security model is illustrated as follow:<br/>  
 ![](image/PDR.png)
 
-A Prevention, Detection and Response Mechanism:
-Protection: building the right controls to protect from hackers getting in
-Detection: detecting when someone is trying to get through those protections
-Reaction:  quickly mitigating any exposure, recovering systems and/or data, and minimizing downtime
+A Prevention, Detection and Response Mechanism: <br/>
+Protection: building the right controls to protect from hackers getting in <br/>
+Detection: detecting when someone is trying to get through those protections <br/>
+Reaction:  quickly mitigating any exposure, recovering systems and/or data, and minimizing downtime <br/>
 
-To some extent, a security framework is to tell you what implementations are needed to realize this mechanism and how to implement them.
-
+To some extent, a security framework is to tell you what implementations are needed to realize this mechanism and how to implement them.<br/>
 Again, quoted from Google: <br/>
 An IT security framework is a series of documented processes used to define policies and procedures around the implementation and ongoing management of information security controls in an enterprise environment. These frameworks are basically a blueprint for building an information security program to manage risk and reduce vulnerabilities. Information security pros can utilize these frameworks to define and prioritize the tasks required to build security into an organization. <br/>
 In a nutshell, frameworks are some generally written guidelines and procedures to be followed for the purpose of improve organization’s cyber security level, lower the risk of lost in all kinds of information, and mitigate lost, if, inevitable attacks happen. <br/>
