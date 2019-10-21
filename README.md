@@ -29,15 +29,30 @@ Reaction:  quickly mitigating any exposure, recovering systems and/or data, and
 
 To some extent, a security framework is to tell you what implementations are needed to realize this mechanism and how to implement them.
 
-Again, quoted from Google:
-An IT security framework is a series of documented processes used to define policies and procedures around the implementation and ongoing management of information security controls in an enterprise environment. These frameworks are basically a blueprint for building an information security program to manage risk and reduce vulnerabilities. Information security pros can utilize these frameworks to define and prioritize the tasks required to build security into an organization.
-In a nutshell, frameworks are some generally written guidelines and procedures to be followed for the purpose of improve organization’s cyber security level, lower the risk of lost in all kinds of information, and mitigate lost, if, inevitable attacks happen.
+Again, quoted from Google: <br/>
+An IT security framework is a series of documented processes used to define policies and procedures around the implementation and ongoing management of information security controls in an enterprise environment. These frameworks are basically a blueprint for building an information security program to manage risk and reduce vulnerabilities. Information security pros can utilize these frameworks to define and prioritize the tasks required to build security into an organization. <br/>
+In a nutshell, frameworks are some generally written guidelines and procedures to be followed for the purpose of improve organization’s cyber security level, lower the risk of lost in all kinds of information, and mitigate lost, if, inevitable attacks happen. <br/>
 
-Take a look at some most use security framework:
-1.NIST     
-![](image/NIST.png)       
+Take a look at some most use security framework:<br/>
+1.NIST Cybersecurity Framework (CSF) <br/> 
+![](image/NIST.png) <br/>
 
-2.PCI DSS      
-The Payment Card Industry Data Security Standard (PCI DSS) is an information security standard for organizations that handle branded credit cards from the major card schemes.    
-3.CIS     
+The CSF is comprised of three components,  the Core, Implementation Tiers and Profiles. <br/>
+1. The Core provides a set of desired cybersecurity activities and outcomes using common language that is easy to understand. It's a bunch of guidelines and suggestions for organizations or any users to follow, and by doing so they can manage and reduce cybersecurity risks in their system. <br/>
+2. Implementation Tiers are a scaled ranking system, from partial implementation to adaptive. It allows organizations ranking their current security level in comparision to CSF. <br/>
+The assessing index for Implementation Tiers are Risk Management Process, Integrated Risk Management Program, External Participation, the criteria of these index vary from tier to tier. Depending on how organiations current system meet with different criteria, they can be aware of the security level of their current system. <br/>
+3. Profiles are like security goals for organizations, in the process of designing target profiles, organizations can refer to CSF framework and align their requirements, risks, objectives and desired outcomes to get target profiles. <br/>
+
+five fuctions
+The Functions are the highest level of abstraction included in the Framework. They act as the backbone of the Framework Core that all other elements are organized around. <br/>
+1. Identify
+2. Protect
+3. Detect
+4. Respond
+5. Recover
+<br/>
+
+2.PCI DSS <br/> 
+The Payment Card Industry Data Security Standard (PCI DSS) is an information security standard for organizations that handle branded credit cards from the major card schemes. <br/>
+3.CIS <br/>
 ![](image/CIS.png)
